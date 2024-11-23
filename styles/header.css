@@ -1,6 +1,8 @@
 
 #primary {
-    padding-block: 8px;      
+    padding-block: 8px;     
+    justify-content: space-between;
+ 
 
 
 div  {
